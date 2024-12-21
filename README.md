@@ -33,8 +33,6 @@
 
 
 
-学习自杜塞老师的相关文章
-https://juejin.cn/user/1591748567503079/posts<br>
 看到了一篇较好的博客入门合集也是用django写的https://www.zmrenwu.com/tutorials/hellodjango-blog-tutorial/
 <br>
 一些相关的markdown语法https://markdown.com.cn/basic-syntax/<br>
